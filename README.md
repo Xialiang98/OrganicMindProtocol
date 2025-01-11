@@ -1,4 +1,4 @@
-# AI思维协议 | AI Thinking Protocol
+# AI思维协议 | AI Thinking Protocol（OrganicMindProtocol）
 
 一个强大的AI思维框架，旨在提升AI系统的认知能力和思维深度。
 
